@@ -1,5 +1,5 @@
 layout: page
-title: Research
+title: "My Research"
 permalink: /research/
 
 # My research
