@@ -1,6 +1,8 @@
+---
 layout: page
 title: "My Research"
 permalink: /research/
+---
 
 # My research
 
