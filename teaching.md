@@ -5,6 +5,14 @@ permalink: /teaching/
 ---
 
 
+# Plateforme Bio-info - MIAT - INRAe
+
+- [Biostatistics analysis of RNA-Seq data](/Teaching/PF-Bioinfo/RNA-seq.html)
+
+# MIAT mini workshop
+
+- `ggplot2` mini workshop: [slides](https://mini-atelier-ggplot2-9a611c.pages-forge.inrae.fr/)
+
 # Paul Sabatier University - Toulouse 
 
 ## 2022 - 2024 
