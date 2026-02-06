@@ -7,8 +7,7 @@ permalink: /publication/
 
 # Scientific publications 
 
-- Enjalbert-Courrech, N. & Neuvial, P. IIDEA : Interactive Inference for Differential Expression Analyses (in preparation).
-- Enjalbert-Courrech, Nicolas, Maugis-Rabusseau, Cathy, & Neuvial, Pierre. Review of post-clustering inference methods (submitted).
+- Enjalbert Courrech, Nicolas, Cathy Maugis‐Rabusseau, and Pierre Neuvial. "Review of Post‐Clustering Inference Methods." International Statistical Review (2025). [[article]](https://onlinelibrary.wiley.com/doi/10.1111/insr.70017) [[hal]](https://hal.science/hal-05053220v1) [[code]](https://github.com/nicolas-enjalbert/review-post-clustering-paper)
 - Nicolas Enjalbert Courrech. *Inférence post-sélection pour l’analyse des données transcriptomiques*, Thèse de doctorat, Université de Toulouse. [[manuscript](manuscrit_these_NEC_bibliotheque.pdf)]
 - Enjalbert-Courrech Nicolas and Neuvial Pierre. Powerful and interpretable control of false discoveries in two-group differential expression studies. *Bioinformatics*, 10 2022. ISSN 1367-4803. doi: 10.1093/bioinformatics/btac693. URL https://doi.org/10.1093/bioinformatics/btac693. btac693. [[article](https://academic.oup.com/bioinformatics/article/38/23/5214/6764584)] [[hal](https://hal.science/hal-03601095/)] [[code](https://github.com/sanssouci-org/IIDEA-method-paper)]
 
