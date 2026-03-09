@@ -62,7 +62,7 @@ France \\
 	
 - [2020/09 - 2021/09] Apprenticeship at Toulouse Mathematics Institut - Université Paul Sabatier (Toulouse III)
 	- Post hoc inference for differential expression analysis. 
-	- Supervised by [Pierre Neuvial](https://www.math.univ-toulouse.fr/~pneuvial/) and [Pierre Neuvial](http://laurent.risser.free.fr/)
+	- Supervised by [Pierre Neuvial](https://www.math.univ-toulouse.fr/~pneuvial/) and [Laurent Risser](http://laurent.risser.free.fr/)
 	- Development of IIDEA, and the sanssouci packages. 
 - [2021] Msc in Statistics and Business Intelligence cum laude, Université Paul Sabatier (Toulouse III)
 - [2019] Bsc Ord. in maths and Statistics cum laude, Université Paul Sabatier (Toulouse III)
